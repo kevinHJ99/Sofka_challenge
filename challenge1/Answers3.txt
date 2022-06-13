@@ -1,0 +1,4 @@
+1.Un siglo son 10 años
+2.Un siglo son 1000 años
+3.Un siglo son 150 años
+4.Un siglo son 100 años

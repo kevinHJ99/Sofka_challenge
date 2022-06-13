@@ -1,0 +1,4 @@
+1.Es un instrumento de cuerdas
+2.Es un instrumento de viento
+3.Es un instrumento de percusion
+4.Es un instrumento de teclas

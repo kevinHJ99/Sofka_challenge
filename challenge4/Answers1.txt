@@ -1,0 +1,4 @@
+1.Blanco
+2.Rojo
+3.Azul Claro
+4.Verde

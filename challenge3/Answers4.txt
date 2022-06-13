@@ -1,0 +1,4 @@
+1.El Euro
+2.La Libra
+3.El Rublo
+4.El Franco

@@ -1,0 +1,4 @@
+1.sector produccion, sector de industria y sector de sevicios
+2.sector primario, sector secundario y sector terciario
+3.sector de produccion, sector de recursos
+4.sector de tecnologia y sector de servicios
